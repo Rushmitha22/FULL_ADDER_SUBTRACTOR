@@ -46,6 +46,15 @@ FULL ADDER :
 FULL SUBTRACTOR :
 ![FULL SUB TT](https://github.com/user-attachments/assets/fccd8ff1-d0e0-4b71-8a0c-297137679a06)
 
+**Code**
+
+FULL ADDER :
+![full adder code](https://github.com/user-attachments/assets/43cd99d6-0de3-4af1-abab-634ee550efb2)
+
+
+FULL SUBTRACTOR:
+![full subtractor code](https://github.com/user-attachments/assets/b31d68c8-7073-4298-8b33-893da1480d85)
+
 
 **Procedure**
 
